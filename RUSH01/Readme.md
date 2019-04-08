@@ -25,8 +25,8 @@ Or Launch Rush01 for mac/pc/linux
 
 ## Media
 
-![screen1](ScreenShot/screen1.png)
-![screen2](ScreenShot/screen2.png)
+#![screen1](ScreenShot/screen1.png)
+#![screen2](ScreenShot/screen2.png)
 
 ## Authors
 
