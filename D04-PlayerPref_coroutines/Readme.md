@@ -22,8 +22,8 @@ Only Menu set not all the Game
 
 ## Media
 
-![screen1](ScreeShot/screen1.png)
-![screen2](ScreeShot/screen2.png)
+![screen1](ScreenShot/screen1.png)
+![screen2](ScreenShot/screen2.png)
 
 ## Authors
 
