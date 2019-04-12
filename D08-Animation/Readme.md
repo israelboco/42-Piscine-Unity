@@ -22,7 +22,6 @@ No build require, all scene inside project
 ## Media
 
 ![screen1](ScreenShot/screen1.png)
-![screen2](ScreenShot/screen2.png)
 
 ## Authors
 
