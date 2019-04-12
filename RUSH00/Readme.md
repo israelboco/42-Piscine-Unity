@@ -23,11 +23,11 @@ Or Launch Rush01 for mac/pc/linux
 
 ## Media
 
-![screen1](ScreeShot/screen1.png)
-![screen2](ScreeShot/screen2.png)
-![screen2](ScreeShot/screen3.png)
-![screen2](ScreeShot/screen4.png)
-![screen2](ScreeShot/screen5.png)
+![screen1](ScreenShot/screen1.png)
+![screen2](ScreenShot/screen2.png)
+![screen2](ScreenShot/screen3.png)
+![screen2](ScreenShot/screen4.png)
+![screen2](ScreenShot/screen5.png)
 
 ## Authors
 
