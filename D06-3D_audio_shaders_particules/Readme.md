@@ -20,10 +20,10 @@ Build and fun
 
 ## Media
 
-![screen1](ScreeShot/screen1.png)
-![screen2](ScreeShot/screen2.png)
-![screen2](ScreeShot/screen3.png)
-![screen2](ScreeShot/screen4.png)
+![screen1](ScreenShot/screen1.png)
+![screen2](ScreenShot/screen2.png)
+![screen2](ScreenShot/screen3.png)
+![screen2](ScreenShot/screen4.png)
 
 ## Authors
 
