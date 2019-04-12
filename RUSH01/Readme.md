@@ -27,6 +27,10 @@ Or Launch Rush01 for mac/pc/linux
 
 #![screen1](ScreenShot/screen1.png)
 #![screen2](ScreenShot/screen2.png)
+#![screen3](ScreenShot/screen3.png)
+#![screen4](ScreenShot/screen4.png)
+#![screen5](ScreenShot/screen5.png)
+#![screen6](ScreenShot/screen6.png)
 
 ## Authors
 
