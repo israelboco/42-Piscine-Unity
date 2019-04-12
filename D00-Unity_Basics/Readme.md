@@ -19,9 +19,9 @@ No build require, all scene inside project
 
 ## Media
 
-![screen1](ScreeShot/screen1.png)
-![screen2](ScreeShot/screen2.png)
-![screen3](ScreeShot/screen3.png)
+![screen1](ScreenShot/screen1.png)
+![screen2](ScreenShot/screen2.png)
+![screen3](ScreenShot/screen3.png)
 
 ## Authors
 
